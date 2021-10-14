@@ -57,6 +57,12 @@ body {
     font-size: 19px
 }
 
+.social-list a {
+    padding: 10px;
+    color: #8E24AA;
+    font-size: 19px
+}
+
 .buttons button:nth-child(1) {
     border: 1px solid #8E24AA !important;
     color: #8E24AA;
